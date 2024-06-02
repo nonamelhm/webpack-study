@@ -1,0 +1,17 @@
+/*!****************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./src/assets/css/index.css ***!
+  \****************************************************************************/
+h1{
+    color: pink;
+    background-color: green;
+}
+.editor{
+    color:green;
+    background-color: orange;
+    height: 100px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+
+/*# sourceMappingURL=hello-cce624dd.bundle.css.map*/

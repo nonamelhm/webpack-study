@@ -1,0 +1,11 @@
+h1{
+    color: pink;
+    background-color: green;
+}
+.editor{
+    color:green;
+    background-color: orange;
+    height: 100px;
+    border-radius: 10px;
+    padding: 10px;
+}

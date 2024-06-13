@@ -39,7 +39,7 @@ module.exports = merge(common, {
         new CleanWebpackPlugin(),
         new CopyWebpackPlugin({
             patterns: [
-                {from: "./public", to: "public"},
+                {from: "./public", to: "public"}
             ]
         }),
         new webpack.DefinePlugin({
